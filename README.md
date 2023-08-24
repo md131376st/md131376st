@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mona Davari
-- 👀 I’m interested in ML and deep learning 
-- 🌱 I’m currently learning tenserflow 
-- 💞️ I’m looking to collaborate on python, react , Django projects
+- 👀 I’m interested in data siance , ML and deep learning 
+- 🌱 I’m currently Looking for internship/thisis opportunities  
 - 📫 How to reach me mona131376st@gmail.com
 
 <!---
