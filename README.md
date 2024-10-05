@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently pursuing a master degree  of Science in Computer Engineering (AI
+🎓 &nbsp;I'm recent  graduate I have a master Science degree  in Computer Engineering (AI
 and Data Analytics Pathway)  .\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me .\
